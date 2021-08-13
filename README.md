@@ -39,7 +39,7 @@ want to add them in the queue. This can be pre-defined with the flags
 ### Brew
 
 ```sh
-brew tap Nhanderu/packages
+brew tap paemuri/packages
 brew install dioni
 ```
 
@@ -50,6 +50,8 @@ cargo install dioni
 ```
 
 ## Run
+
+### Default
 
 #### `dioni`
 
@@ -103,7 +105,7 @@ domain, without any additional terms or conditions.
 
 [1]: ./LICENSE
 
-[badge-1-img]: https://img.shields.io/github/license/Nhanderu/dioni?style=flat-square
-[badge-1-link]: https://github.com/Nhanderu/dioni/blob/master/LICENSE
+[badge-1-img]: https://img.shields.io/github/license/paemuri/dioni?style=flat-square
+[badge-1-link]: https://github.com/paemuri/dioni/blob/master/LICENSE
 [badge-2-img]: https://img.shields.io/crates/v/dioni?style=flat-square
 [badge-2-link]: https://crates.io/crates/dioni
