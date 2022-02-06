@@ -1,6 +1,6 @@
 [package]
 name = "dioni"
-description = "Real random for Spotify!"
+description = "Spotify shuffler!"
 version = "1.2.2"
 authors = ["Rafael Escobar <rescobar@protonmail.com>"]
 repository = "https://git.sr.ht/~paemuri/dioni/"

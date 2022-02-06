@@ -12,7 +12,7 @@ fake. It seems to play the same bands, or at least have some kind of
 intelligence behind it.
 
 So this project was born with the intention of having a **true random**
-queue with your saved tracks.
+(i.e. that hasn't this "intelligence") queue with your saved tracks.
 
 But, again, I may be just too paranoid.
 
