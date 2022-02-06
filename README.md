@@ -36,15 +36,6 @@ want to add them in the queue. This can be pre-defined with the flags
 
 ## Install
 
-### Brew
-
-```sh
-brew tap paemuri/packages
-brew install dioni
-```
-
-### Cargo
-
 ```sh
 cargo install dioni
 ```
@@ -105,7 +96,7 @@ domain, without any additional terms or conditions.
 
 [1]: ./LICENSE
 
-[badge-1-img]: https://img.shields.io/github/license/paemuri/dioni?style=flat-square
-[badge-1-link]: https://github.com/paemuri/dioni/blob/master/LICENSE
+[badge-1-img]: https://img.shields.io/badge/license-Unlicense-green?style=flat-square
+[badge-1-link]: ./LICENSE
 [badge-2-img]: https://img.shields.io/crates/v/dioni?style=flat-square
 [badge-2-link]: https://crates.io/crates/dioni
